@@ -6,3 +6,5 @@
 *.vsidx
 *.v2
 *.dll
+*bin/Debug/net6.0
+*obj
